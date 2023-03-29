@@ -7,6 +7,7 @@ This repository includes dataset files, codes, and additional files to explain i
 Your contributions, beneficial criticism, and additional language translations are appreciated.
 
 Contact: memisoguzhants@gmail.com
+
 Cite for the codes as ; github.com/O-Memis/ML-Biomedical/ or directly the collection of other resources.
 
 
